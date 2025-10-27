@@ -4,5 +4,5 @@
 
 <a href="https://02-react-cafe-kappa-lemon.vercel.app/" target="_blank">
   <img src="./public/image.png" alt="Site Preview" />
-  <span>DEMO>
+  DEMO
 </a>
